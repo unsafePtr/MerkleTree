@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerkleTreeLib", "MerkleTreeLib\MerkleTreeLib.csproj", "{BA39329F-084B-4B90-97B7-FA8B0F339983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerkleTreeLib.Tests", "MerkleTreeLib.Tests\MerkleTreeLib.Tests.csproj", "{BC1E4B30-0AD7-4955-9376-5DBF69ECD9E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA39329F-084B-4B90-97B7-FA8B0F339983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA39329F-084B-4B90-97B7-FA8B0F339983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA39329F-084B-4B90-97B7-FA8B0F339983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA39329F-084B-4B90-97B7-FA8B0F339983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1E4B30-0AD7-4955-9376-5DBF69ECD9E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1E4B30-0AD7-4955-9376-5DBF69ECD9E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1E4B30-0AD7-4955-9376-5DBF69ECD9E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1E4B30-0AD7-4955-9376-5DBF69ECD9E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16E73942-A44A-48FF-B985-99879D22BA3E}
+	EndGlobalSection
+EndGlobal
